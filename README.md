@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/stay-right-here-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Stay Right Here Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stay-right-here-now/) |
+| **Get License** | [Get a Licensing Quote for Stay Right Here Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stay-right-here-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers glowing in the dark
+> Your gentle breathing leaves a tender mark
+> Don't let this midnight magic fade away
+> Tonight I only need for you to stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
